@@ -43,7 +43,7 @@
 </p>
 <br />
 
-
+## This is a really cool library!
 ### 🎉 **An exciting new way to build modern, reactive, real-time apps with Ruby on Rails.**
 
 StimulusReflex eliminates the complexity imposed by full-stack frontend frameworks.
